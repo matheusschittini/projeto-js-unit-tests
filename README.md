@@ -1,5 +1,7 @@
  Esse projeto foi desenvolvido durante o módulo Fundamentos do Desenvolvimento Web do curso da Trybe. Para realizá-lo, foi necessário escrever testes unitários para as funções utilizando o módulo Jest do NodeJS para verificar se os seus respectivos funcionamentos estavam corretos. Além disso, a partir de testes já implementados, foram escritas funções de forma que elas atendessem aos testes propostos. Também foram escritos testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
+ Encontram-se, abaixo, os requisitos necessários para completar o projeto:
+
 ## Requisitos do projeto
 
 ### 1. Implemente a função `average`
