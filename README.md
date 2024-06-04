@@ -1,4 +1,4 @@
- Esse projeto foi desenvolvido durante o módulo Fundamentos do Desenvolvimento Web do curso da Trybe. Para realizá-lo, foi necessário escrever testes unitários para as funções utilizando o módulo Jest do NodeJS para verificar se os seus respectivos funcionamentos estavam corretos. Além disso, a partir de testes já implementados, foram escritas funções de forma que elas atendessem aos testes propostos. Por último, foram escritos testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+ Esse projeto foi desenvolvido durante o módulo Fundamentos do Desenvolvimento Web do curso da Trybe. Para realizá-lo, foi necessário escrever testes unitários para as funções utilizando o módulo Jest do NodeJS para verificar se os seus respectivos funcionamentos estavam corretos. Além disso, a partir de testes já implementados, foram escritas funções de forma que elas atendessem aos testes propostos. Também foram escritos testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
 ## Requisitos do projeto
 
